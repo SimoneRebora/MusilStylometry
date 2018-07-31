@@ -1,5 +1,5 @@
 # MusilStylometry
-Scripts and corpora for the attribution to Robert Musil of a series of 28 articles published in the "Tiroler Soldaten Zeitung" <br /> <br />
+Scripts and corpora for the attribution to Robert Musil of a series of 28 articles published in the "Tiroler Soldaten-Zeitung" <br /> <br />
 All sytlometric analyses are based on the "Stylo" package: <br />
 <b>Eder, M., Rybicki, J. and Kestemont, M. </b>(2016). Stylometry with R: 
 a package for computational text analysis. R Journal 8(1): 107-121. <br />
